@@ -1,0 +1,5 @@
+import random
+class answer:
+    def func(self,name):
+        a = name + str(random.randint(6,15))
+        return a
